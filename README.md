@@ -21,11 +21,11 @@ The goals / steps of this project are the following:
 [image2]: ./output_images/undistorted_checker.jpg "Undistorted Checker"
 [image3]: ./test_images/straight_lines1.jpg "Straight Lines"
 [image4]: ./output_images/undistorted.jpg "Undistorted"
-[image5]: ./output_images/s_channel_binary.jpg "S Channel"
-[image6]: ./output_images/combined_thresh.jpg "Combined"
+[image5]: ./output_images/s_channel_binary.png "S Channel"
+[image6]: ./output_images/combined_thresh.png "Combined"
 [image7]: ./output_images/roi_coordinates.png "ROI"
 [image8]: ./output_images/warped.jpg "Warped"
-[image9]: ./output_images/warped_lane_lines.png "Warped Visual"
+[image9]: ./output_images/warped_lanelines.png "Warped Visual"
 [image10]: ./output_images/binary_warped.png "Binary Warped"
 [image11]: ./output_images/sliding_windows.jpg "Sliding Windows"
 [image12]: ./output_images/search_around_poly.jpg "Prev. Info"
@@ -122,9 +122,7 @@ Now that I know my radius of curvature and lane line positions, I used `draw_lan
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's my output video:
-
-[!alt_text][video1]
+Here's a [link to my output video]('./output_videos/project_video_output.mp4')
 
 ---
 
