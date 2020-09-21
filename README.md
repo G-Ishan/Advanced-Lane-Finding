@@ -122,7 +122,7 @@ Now that I know my radius of curvature and lane line positions, I used `draw_lan
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my output video]('./output_videos/project_video_output.mp4')
+Here's a [link to my output video](./output_videos/project_video_output.mp4)
 
 ---
 
